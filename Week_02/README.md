@@ -127,29 +127,29 @@ G1整体基于标记整理算法，局部基于标记复制算法
 
 预期结果：处理请求数 3>2>1.
 
-实际结果如图：第三种方式并没有预期中比2好。
+实际结果如图：第三种方式并没有预期中比2好。个人实验结果是差不多
 
 
 
 第一种方式结果：
 
-![]()
+![](https://github.com/Niverkk/JAVA-01/tree/main/Week_02/src/main/resources/serversocket01.png)
 
 
 
 第二种方式结果：
 
-![]()
+![](https://github.com/Niverkk/JAVA-01/tree/main/Week_02/src/main/resources/serversocket02.png)
 
 
 
 第三种方式结果：
 
-![]()
+![](https://github.com/Niverkk/JAVA-01/tree/main/Week_02/src/main/resources/serversocket03.png)
 
 
 
 
 **2.（必做）**写一段代码，使用 HttpClient 或 OkHttp 访问 [http://localhost:8801 ](http://localhost:8801/)，代码提交到 GitHub
 
-代码地址：(http://baidu.com)
+代码地址：(https://github.com/Niverkk/JAVA-01/blob/main/Week_02/src/main/java/info/niverkk/course04/HttpClientDemo.java)
