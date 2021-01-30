@@ -133,7 +133,7 @@ G1整体基于标记整理算法，局部基于标记复制算法
 
 第一种方式结果：
 
-![](https://github.com/Niverkk/JAVA-01/tree/main/Week_02/src/main/resources/serversocket01.png)
+![01](https://github.com/Niverkk/JAVA-01/tree/main/Week_02/src/main/resources/serversocket01.png)
 
 
 
