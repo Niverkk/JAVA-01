@@ -21,7 +21,7 @@ public class DataSourceConfiguration {
     public DataSource ds1(){
         HikariDataSource dataSource = new HikariDataSource();
         dataSource.setUsername("root");
-        dataSource.setPassword("Xiangjk666");
+        dataSource.setPassword("");
         dataSource.setJdbcUrl("jdbc:mysql://gz-cynosdbmysql-grp-0ft8922d.sql.tencentcdb.com:20820/jeek");
 
         //Connection connection = dataSource.getConnection();
@@ -32,7 +32,7 @@ public class DataSourceConfiguration {
     public DataSource ds2(){
         HikariDataSource dataSource = new HikariDataSource();
         dataSource.setUsername("root");
-        dataSource.setPassword("Xiangjk666");
+        dataSource.setPassword("");
         dataSource.setJdbcUrl("jdbc:mysql://gz-cynosdbmysql-grp-0ft8922d.sql.tencentcdb.com:20820/jeek2");
 
         //Connection connection = dataSource.getConnection();

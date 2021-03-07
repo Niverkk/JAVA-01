@@ -13,6 +13,8 @@ import java.lang.reflect.Field;
 import java.util.Map;
 
 /**
+ * 思路：注入基类，根据是否使用注解设置不同dao，对应不同数据源
+ * 现在启动就报错，解决不了
  * @author JKXAING on 2021/3/6
  */
 @Aspect
