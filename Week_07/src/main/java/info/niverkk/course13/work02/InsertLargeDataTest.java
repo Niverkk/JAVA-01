@@ -72,7 +72,7 @@ public class InsertLargeDataTest {
         //2.获取连接
         String url = "jdbc:mysql://gz-cynosdbmysql-grp-0ft8922d.sql.tencentcdb.com:20820/jeek?rewriteBatchedStatements=true";
         String username = "root";
-        String pwd = "Xiangjk666";
+        String pwd = "";
         Connection connection = DriverManager.getConnection(url, username, pwd);
 
         return connection;
